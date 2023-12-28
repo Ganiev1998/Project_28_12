@@ -7,5 +7,6 @@ public class Main {
             System.out.println("hello world");
         }
         System.out.println("Good bye");
+        System.out.println("Welcome");
     }
 }
